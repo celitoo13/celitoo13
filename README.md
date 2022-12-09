@@ -1,0 +1,3 @@
+- 👋 olá, eu sou @celitoo13.
+- 👀 estou enteressado em aprender novas liguagens de programação.
+- 🌱 estou aprendendo a utilizar o scratch e o p5 js(javaScript).
